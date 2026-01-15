@@ -6,7 +6,7 @@
 - 🌱 I’m learning MERN Stack  
 - 👨‍💻 All my projects are on Github  
 - 🤝 Looking for Web Developer Intern / Full-time role  
-- 📫 How to reach me: **your email here**
+- 📫 How to reach me: **shivatejdabade2004@gmail.com**
 
 ---
 
@@ -26,8 +26,8 @@
 ---
 
 ### 📬 Connect With Me  
-LinkedIn: *add your profile link here*  
-Email: *add your email here*
+LinkedIn: `https://www.linkedin.com/in/shivatej-dabade/`  
+Email: `shivatejdabade2004@gmail.com`
 
 
 
