@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Shivatej Dabade  
 
-<!--
-**Shivatej2503/Shivatej2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Web Developer | Open-To-Work  
 
-Here are some ideas to get you started:
+### 💡 About Me  
+- 🌱 I’m learning MERN Stack  
+- 👨‍💻 All my projects are on Github  
+- 🤝 Looking for Web Developer Intern / Full-time role  
+- 📫 How to reach me: **your email here**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack  
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, Firebase  
+**Tools:** Git, GitHub, Vite, VS Code  
+
+---
+
+### 📌 Featured Projects  
+➡️ Flashcard App  
+➡️ Birthday surprise project  
+➡️ Portfolio Website  
+
+---
+
+### 📬 Connect With Me  
+LinkedIn: *add your profile link here*  
+Email: *add your email here*
