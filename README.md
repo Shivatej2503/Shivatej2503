@@ -1,12 +1,13 @@
-# Hi 👋, I'm Shivatej Dabade  
+# 👋 Hi there, I'm Shivatej Dabade
 
-🚀 Full Stack Web Developer | Open-To-Work  
+🚀 Full Stack Web Developer | Open to Opportunities
 
-### 💡 About Me  
-- 🌱 I’m learning MERN Stack  
-- 👨‍💻 All my projects are on Github  
-- 🤝 Looking for Web Developer Intern / Full-time role  
-- 📫 How to reach me: **shivatejdabade2004@gmail.com**
+## 💡 About Me
+- 🌱 Currently diving deep into the MERN Stack
+- 🛠️ Passionate about building scalable web applications
+- 📂 All my projects live on [GitHub](https://github.com/Shivatej2503)
+- 🤝 Actively seeking Web Developer Internships or Full-Time Roles
+- 📫 Reach me at: shivatejdabade2004@gmail.com
 
 ---
 
