@@ -38,11 +38,6 @@ Email: `shivatejdabade2004@gmail.com`
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivatej2503&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shivatej2503&theme=tokyonight)
-
----
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shivatej2503&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shivatej2503&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivatej2503&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
