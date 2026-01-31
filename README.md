@@ -17,7 +17,9 @@
 
 ### 📌 Featured Projects  
 ➡️ User Enquiry Portal (FEATURED)
+
 ➡️ Currency Converter Application
+
 ➡️ Flashcard App   
 ➡️ Portfolio Website  
 ➡️ Birthday surprise project 
